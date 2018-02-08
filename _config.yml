@@ -41,10 +41,6 @@ kramdown:
 relative_permalinks: false
 exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, jekyllbuild]
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 505f1c5d96f933e85839421c73911d1bce2b81e9
 # prose.io configurations
 prose:
   media: "img"
@@ -125,17 +121,3 @@ prose:
           label: "YouTube Video ID"
           help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
           type: "text"
-<<<<<<< HEAD
-=======
-# Account ids
-snapwidget: 503237
-
-# Contacts
-email: arisara.km@gmail.com
-phone: +66 92 4169392 
-
-# Tracking
-googleAnalitycsID: UA-83933844-1
->>>>>>> 9f1f8ed49edd70fe0eaa02453accb0dfe2a831b9
-=======
->>>>>>> 505f1c5d96f933e85839421c73911d1bce2b81e9
